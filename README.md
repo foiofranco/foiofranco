@@ -2,7 +2,7 @@
 - 👤 Me chamo João Francisco, tenho 24 anos.
 - 💻 Sou graduando de Ciência da Computação no IFSEMG - Rio Pomba.
 - 🔭 Atualmente focado em me consolidar como desenvolvedor web.
-- 💼 Aberto a oportunidades de trabalho.
+- 💼 Aberto a estágio / oportunidade de trabalho.
 
 ##
 
