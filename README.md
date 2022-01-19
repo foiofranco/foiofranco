@@ -1,8 +1,8 @@
 #### Saudações! 👋🏻
-- 👤 Me chamo João Francisco, tenho 24 anos.
+- 👤 Meu nome é João Francisco, tenho 25 anos.
 - 💻 Sou graduando de Ciência da Computação no IFSEMG - Rio Pomba.
-- 🔭 Atualmente focado em me consolidar como desenvolvedor web.
-- 💼 Aberto a estágio / oportunidade de trabalho.
+- 📚 Atualmente estudando HTML, CSS, JavaScript e C++.
+- 💼 Buscando estágio / oportunidade de trabalho.
 
 ##
 
