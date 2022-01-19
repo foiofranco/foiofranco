@@ -3,6 +3,7 @@
 - 💻 Graduando de Ciência da Computação no IFSEMG - Rio Pomba.
 - 📚 Atualmente estudando HTML, CSS, JavaScript e C++.
 - 💼 Buscando estágio / oportunidade de trabalho.
+- 📬 joaofsfranco@gmail.com
 
 ##
 
