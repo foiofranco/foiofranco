@@ -1,5 +1,5 @@
 #### Saudações! 👋🏻
-- 👤 João Franco, 24 anos.
+- 👤 João Franco, 25 anos.
 - 💻 Graduando de Ciência da Computação no IFSEMG - Rio Pomba.
 - 📚 Atualmente estudando HTML, CSS, JavaScript e C++.
 - 💼 Buscando estágio / oportunidade de trabalho.
