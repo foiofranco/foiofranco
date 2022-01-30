@@ -1,7 +1,6 @@
 #### Saudações! 👋🏻
 Meu nome é João, sou graduando de Ciência da Computação no IFSEMG - Rio Pomba.
-- 🔭 Atualmente aprimorando conhecimentos em desenvolvimento web.
-- 📚 Stack: C++, HTML, CSS, JavaScript, PHP.
+- 🔭 Atualmente aprimorando meus conhecimentos em desenvolvimento web.
 - 💼 Buscando oportunidade de estágio / trabalho.
 
 ##
