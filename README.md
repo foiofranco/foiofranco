@@ -1,5 +1,5 @@
 #### Saudações! 👋🏻
-Meu nome é João, sou graduando de Ciência da Computação no IFSEMG - Rio Pomba.
+Meu nome é Franco, sou graduando de Ciência da Computação no IFSEMG - Rio Pomba.
 - 🔭 Atualmente aprimorando meus conhecimentos em desenvolvimento web.
 - 🎯 Focado em me consolidar como desenvolvedor full stack.
 - 💼 Buscando oportunidade de estágio / trabalho.
